@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "307117782532",
+    "project_id": "mostashar-cec40",
+    "storage_bucket": "mostashar-cec40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307117782532:android:af973e38b06decdc036751",
+        "android_client_info": {
+          "package_name": "com.tu.mostshar11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307117782532-p98ud3fuh5vr4l847pq3r8688f0sik37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWFLLj5GpWwGc0TuczwYn2WSpgJUd-LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307117782532-p98ud3fuh5vr4l847pq3r8688f0sik37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

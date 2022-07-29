@@ -1,0 +1,116 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="makala">مقالة</string>
+    <string name="mashaer">مشاعر</string>
+    <string name="logut">تسجيل خروج</string>
+
+
+    <string name="menu_home">الرئيسية</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="settings">الإعدادات</string>
+
+    <string name="app_name">مستشارك</string>
+    <string name="Name">اسم المستخدم</string>
+    <string name="estsharah">صفحة الاستشارة</string>
+    <string name="maqalat">صفحة مقالات</string>
+    <string name="mashaeer">صفحة مشاعر</string>
+    <string name="string1">  هنا يتاح لك عزيزتي المتدربة المشاركة بما تودين نقله ومشاركته مع زميلاتك من معلومات ، حقائق، مقالات ، اخبار</string>
+    <string name="string2">  هنا يتاح لك عزيزتي المتدربة المشاركة بما تودين طرحه من مقالات ، خواطر ،قصائد للتعبير عما يجول بخاطرك من مشاعر </string>
+    <string name="String5">  هنا يتاح لك عزيزتي المتدربة طرح كآفة استفسارتك وتلقي الإجابة عليها في المجالات النفسية , الأسرية , الصحية, الاجتماعية المهنية   </string>
+    <string name="password">كلمة المرور</string>
+    <string name="type">نوع الاسشتارة</string>
+    <string name="sehaa">صحية</string>
+    <string name="nafseh">نفسية</string>
+    <string name="osarah"> أسرية</string>
+    <string name="igtmaa">اجتماعية</string>
+    <string name="Mihnah">مهنية</string>
+    <string name="irsal">استشارة</string>
+    <string name="text1">اكتب استشارتك هنا</string>
+    <string name="text2">اكتب هنا...</string>
+    <string name="logo1">logo1</string>
+    <string name="logo2">logo2</string>
+    <string name="log">تسجيل الدخول</string>
+    <string name="button1">دخول</string>
+    <string name="button2">دخول باستخدام حساب جوجل</string>
+    <string name="button3">تسجيل حساب جديد</string>
+    <string name="button4">مشاركة مقالتك</string>
+    <string name="string3">مقالات تمت مشاركتها:</string>
+    <string name="string4">مشاعر تمت مشاركتها</string>
+    <string name="button5">مشاركة مشاعرك</string>
+    <string name="title_activity_docotor">docotor</string>
+
+
+    <string name="welcome">  مرحبا بك في تطبيق مستشارك , قم بتصفح محتوى التطبيق من خلال القائمة الجانبية</string>
+    <string name="welcom1">في تطبيق مستشارك</string>
+    <string name="title_activity_doctor">doctor</string>
+    <string name="profile">البروفايل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="other">أخرى</string>
+    <string name="setting">الاعدادت</string>
+    <string name="about">حول التطبيق</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+
+    <string name="action_sign_in_short">تسجيل</string>
+    <string name="email">إيميل</string>
+    <string name="minimum_password">كلمة المرور قصيرة جدا , ادخل كلمة مرور من 6 احرف!</string>
+    <string name="auth_failed">فشل تسجيل الدخول, تأكد من الايميل وكلمة المرور او قم بالتسجيل </string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string-array name="name">
+        <item> صفحة مقالة</item>
+        <item>صفحة مشاعر</item>
+        <item>صفحة استشارة</item>
+    </string-array>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main32">Main32Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="usertype">نوع المستخدم:</string>
+    <string-array name="usertype">
+        <item>مستخدم عادي</item>
+        <item>دكتور</item>
+    </string-array>
+    <string name="lastsession">جلسات سابقة</string>
+    <string name="promision">مواعيدك الحالية</string>
+    <string name="edite">تعديل</string>
+    <string name="welcome1">مرحبا بك في الجزء الخاص بالدكتور من تطبيق مستشارك  , قم بتصفح محتوى التطبيق من خلال القائمة الجانبية  </string>
+</resources>

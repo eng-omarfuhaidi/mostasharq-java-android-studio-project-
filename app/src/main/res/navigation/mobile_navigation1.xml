@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home"
+    tools:ignore="UnusedNavigation">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.tu.mostshar11.ui.home1.HomeFragment1"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home1">
+
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/nav_istisharaty"
+        android:name="com.tu.mostshar11.ui.Istsharat1.Istisharat1Fragment"
+        android:label="@string/estsharah"
+        tools:layout="@layout/fragment_istisharat1" />
+
+    <fragment
+    android:id="@+id/nav_slideshow"
+    android:name="com.tu.mostshar11.ui.masheer.MasheerFragment"
+    android:label="@string/mashaeer"
+    tools:layout="@layout/fragment_mashaeer" />
+<fragment android:id="@+id/nav_maqala"
+    android:name="com.tu.mostshar11.ui.maqala.MaqalaFragment"
+    android:label="@string/maqalat"/>
+
+
+
+
+
+</navigation>
